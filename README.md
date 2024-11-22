@@ -3,7 +3,7 @@
 - **Supported server versions:** 0.70.0+
 - **Supported iOS versions**: 13.4+
 - **Supported Android versions**: 6.0+
-
+0
 ## Download
 
 <a href="https://play.google.com/store/apps/details?id=chat.rocket.android">
